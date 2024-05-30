@@ -7,7 +7,7 @@
       Atividade prática faculdade Descomplica
   </h2>
   
-  <h5 align="center">Interface developed with HTML, CSS e JavaScript</h5>
+  <h5 align="center">Interface desenvolvida com HTML e CSS</h5>
   <p align="center">
   <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/larissayasmim/pratica10?color=black">
   <img alt="GitHub tp language" src="https://img.shields.io/github/languages/top/larissayasmim/pratica10?color=white">
