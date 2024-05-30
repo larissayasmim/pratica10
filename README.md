@@ -17,7 +17,7 @@
 <br>
 
 <h2> :page_facing_up: &nbsp; Demonstração </h2>
-<p font-color="red">https://app.netlify.com/sites/pratica10/deploys</p>
+<p font-color="red">https://pratica10.netlify.app</p>
 <br>
 
 ## :page_facing_up: &nbsp;Home 
