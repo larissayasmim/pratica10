@@ -1,24 +1,33 @@
 body {
   background-color: rgba(60, 58, 58, 0.985);
-  color: rgb(208, 210, 211);
+  color: rgb(201, 201, 201);
   max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+  background-color: rgb(29, 29, 29);
+  height: 470px;
 }
 
 h2 {
-  
   display: flex;
   justify-content: center;
   padding:80px 0;
-  font-size: 28px;
+  font-size: 40px;
   background-color: rgb(23, 23, 23);
   margin: 0;
 }
 
 h4 {
   margin: 0px;
-  padding-top: 40px;
-  padding-left: 2rem;
+  padding-top: 60px;
+  padding-left: 14rem;
   font-size: 20px;
+}
+img{
+  margin: 0px;
+  padding: 0;
 }
